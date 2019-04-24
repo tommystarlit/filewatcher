@@ -1,0 +1,49 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tbieleni\\Documents\\VSCode\\Projects\\filewatcher\\filewatcher.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tbieleni\\Documents\\VSCode\\Projects\\filewatcher\\filewatcher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tbieleni\\Documents\\VSCode\\Projects\\filewatcher\\filewatcher.csproj",
+        "projectName": "filewatcher",
+        "projectPath": "C:\\Users\\tbieleni\\Documents\\VSCode\\Projects\\filewatcher\\filewatcher.csproj",
+        "packagesPath": "C:\\Users\\tbieleni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tbieleni\\Documents\\VSCode\\Projects\\filewatcher\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tbieleni\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

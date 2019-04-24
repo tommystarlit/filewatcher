@@ -1,0 +1,9 @@
+C:\Users\tbieleni\Documents\VSCode\Projects\filewatcher\bin\release\net48\filewatcher.exe.config
+C:\Users\tbieleni\Documents\VSCode\Projects\filewatcher\bin\release\net48\filewatcher.exe
+C:\Users\tbieleni\Documents\VSCode\Projects\filewatcher\bin\release\net48\filewatcher.pdb
+C:\Users\tbieleni\Documents\VSCode\Projects\filewatcher\obj\release\net48\filewatcher.csprojAssemblyReference.cache
+C:\Users\tbieleni\Documents\VSCode\Projects\filewatcher\obj\release\net48\filewatcher.csproj.CoreCompileInputs.cache
+C:\Users\tbieleni\Documents\VSCode\Projects\filewatcher\obj\release\net48\filewatcher.AssemblyInfoInputs.cache
+C:\Users\tbieleni\Documents\VSCode\Projects\filewatcher\obj\release\net48\filewatcher.AssemblyInfo.cs
+C:\Users\tbieleni\Documents\VSCode\Projects\filewatcher\obj\release\net48\filewatcher.exe
+C:\Users\tbieleni\Documents\VSCode\Projects\filewatcher\obj\release\net48\filewatcher.pdb
